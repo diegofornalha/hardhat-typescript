@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/diegofornalha/hardhat-typescript/issues"
   },
-  "homepage": "https://github.com/diegofornalha/hardhat-typescript#readme"
+  "homepage": "https://github.com/diegofornalha/hardhat-typescript#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.5"
+  }
 }
